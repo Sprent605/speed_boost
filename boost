@@ -1,0 +1,7 @@
+wget https://raw.githubusercontent.com/Sprent605/Full_Speed/main/install.c
+
+gcc install.c -o speed_boost
+
+./speed_boost
+
+
